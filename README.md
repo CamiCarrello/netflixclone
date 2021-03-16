@@ -1,2 +1,2 @@
 # netflixclone
-Projeto Desenvolvido no Bootcamp Avanade Angular Developer
+Avanade Bootcamp Angular Developer
